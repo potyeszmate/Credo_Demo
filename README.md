@@ -6,7 +6,7 @@ Beüzemelés: Mivel cross platform alkalmazásról van szó, beüzemelése idői
 
 Ez a repo tartalmazza a diplomamunka demo verzióját.
 
-> **Fontos**: A demo verzió leadása után a JavaScript alapú alkalmazás át lesz alakítva TypeScriptre a kódminőség és hibaelkerülések érdekében. Továbbá, a jelenlegi kódban fájlstruktúra, kódrendezés, clean code és egyéb kódszépítési lehetőségek lesznek. A jelenlegi demóban az volt a cél, hogy minél több alapfunkciót elkészítsek és megismerjem a technológiai stacket (React Native). Esetleges hibák előfordulhatnak.
+> **Fontos**: A demo verzió leadása után a JavaScript alapú alkalmazás át lesz alakítva TypeScriptre a kódminőség és hibaelkerülések érdekében. Továbbá, a jelenlegi kódban fájlstruktúra, kódrendezés, clean code és egyéb kódszépítések lesznek. A jelenlegi demóban az volt a cél, hogy minél több alapfunkciót elkészítsek és megismerjem a technológiai stacket (React Native). Esetleges hibák előfordulhatnak.
 
 ## Funkciók a Demo Verzióban
 
